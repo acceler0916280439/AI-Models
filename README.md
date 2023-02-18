@@ -1,2 +1,2 @@
 # AI-Models
-The AI model I've made.
+The AI model I've built.
