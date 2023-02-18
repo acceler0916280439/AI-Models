@@ -8,9 +8,9 @@
 1. 依據患者的周邊神經病變之嚴重程度分為三級：'none', 'Mild', 'MandS'，將需要預測的眼底影像存放於 Testing_data資料夾下的三類資料夾內。
 2. 運行DPN_prediction_model資料夾底下的 "main_for_multiclass.py" 檔案，取得AI模型對視網膜眼底影像的預測評估。
 3. 最終將輸出：  (運行後生成的結果圖檔將存放於 "Results_charts" 資料夾當中相應的模型資料夾內)
-	1. 混淆矩陣
-	2. 模型預測效力評估
-	3. 多分類ROC曲線
+	1. 模型預測效力評估(AUC, Sensitivity, Specificity, PPV, F1 score)
+	2. 混淆矩陣(Confusion Matrix)
+	3. 多分類ROC曲線(Multiclass Receiver Operator Characteristic)
 #
 * "main_for_multiclass.py" 為主執行程式，功能為調用副程式－"ModelPerformance.py" 當中的functions並逐步執行。
 * 所有路徑與檔名可以自行修改成適合自己的環境名稱。
