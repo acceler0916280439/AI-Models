@@ -5,7 +5,7 @@
 
 #
 #### DPN prediction model 使用方式：
-1. 依據患者的周邊神經病變之嚴重程度分為三級：'none', 'Mild', 'MandS'，將需要預測的眼底影像存放於 Testing_data資料夾下的三類資料夾內。
+1. 本研究依據患者的周邊神經病變之嚴重程度分為三級：'none', 'Mild', 'MandS'，請將需要預測的眼底影像存放於 Testing_data資料夾下的三類資料夾內。
 2. 運行DPN_prediction_model資料夾底下的 "main_for_multiclass.py" 檔案，取得AI模型對視網膜眼底影像的預測評估。
 3. 最終將輸出：  (運行後生成的結果圖檔將存放於 "Results_charts" 資料夾當中相應的模型資料夾內)
 	1. 模型預測效力評估(AUC, Sensitivity, Specificity, PPV, F1 score)
