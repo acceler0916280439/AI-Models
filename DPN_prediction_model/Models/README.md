@@ -1,4 +1,4 @@
-### pretrained AI model donwload link:
+### retrained AI model donwload link:
 
 1. [ConvMixer](https://drive.google.com/file/d/1ObnXOz3Jiw0r8RYh0RsqJZkS0kpiGMU7/view?usp=share_link)
 2. [PTattention](https://drive.google.com/file/d/1LQnas_7xMqckz4toXr3bUcdeOkHkQK6T/view?usp=share_link)
