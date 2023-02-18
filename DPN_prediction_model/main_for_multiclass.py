@@ -4,7 +4,7 @@ import os
 # ------------------------------------------------------------------------------
 main_path = os.getcwd() # = 'D:\My_Documents\Electricity_Master_Degree\Ocular_fundus_in_optic_neuropathy'
 # path for testing dataset
-datapath = os.path.join(main_path, 'Data_for_Testing\Test') # 測試資料集
+datapath = os.path.join(main_path, 'Testing_data') # 測試資料集
 
 # path for testing Model
 Attenmodelpath = os.path.join(os.path.join(main_path, 'Models'), 'full_PTAttention_Multiclass_model.h5')
