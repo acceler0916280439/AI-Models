@@ -5,4 +5,4 @@
 3. [ResNet34](https://drive.google.com/file/d/1yn5k0ATopZ_0bC6uBjBHGKaRUVbwkMU8/view?usp=share_link)
 4. [VGG16](https://drive.google.com/file/d/1gmLjj1dZwU2T3VmmKpXdS98GIocNz5ko/view?usp=share_link)
 
-* 若要使用，請將模型下載於 "Models" 資料夾底下
+* 若有使用需求，請將模型下載於 "Models" 資料夾底下
