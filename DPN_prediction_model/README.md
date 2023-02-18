@@ -15,3 +15,8 @@
 * "main_for_multiclass.py" 為主執行程式，功能為調用副程式－"ModelPerformance.py" 當中的functions並逐步執行。
 * 所有路徑與檔名可以自行修改成適合自己的環境名稱。
 * 確保運行環境中已確實安裝相應的python函式庫，否則可能將無法順利運行各項功能。
+* class none: 未罹患 (None)周邊神經病變之第二型糖尿病患者。
+* class Mild: 罹患 輕度 (Mild)周邊神經病變之第二型糖尿病患者。
+* class MandS: 罹患 中度 or 重度 (Moderate or Severe, MaS)周邊神經病變之第二型糖尿病患者。
+* 更詳細的資訊請閱覽此篇論文：
+[以糖尿病患者眼底攝影影像建立深度學習模型預測周邊神經病變之風險 Using Retinal Fundus Images of Diabetic Patients to Build Deep Learning Models to Predict the Risk of Peripheral Neuropathy](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22110NKUS0427098%22.&searchmode=basic)
